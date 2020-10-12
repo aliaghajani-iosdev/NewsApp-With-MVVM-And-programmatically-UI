@@ -1,0 +1,6 @@
+framework module Pods_News_List_Self_Sizing_TableViewCell {
+  umbrella header "Pods-News List Self-Sizing TableViewCell-umbrella.h"
+
+  export *
+  module * { export * }
+}
